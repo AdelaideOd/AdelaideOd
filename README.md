@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adelaide Odametey
 - 👀 I’m interested in data analysis, especially in the food and beverage industry, and how data-driven insights can enhance decision-making.
-- 🌱 I’m currently learning advanced data analytics tools like Power BI and SQL to deepen my understanding and skills in data visualization and manipulation.
+- 🌱 I’m currently learning advanced data analytics tools like Python, Excel, Power BI, and SQL to deepen my understanding and skills in data visualization and manipulation.
 - 💞️ I’m looking to collaborate on projects that involve data analysis, data visualization, or any innovative solutions in the food and beverage sector.
 - 📫 How to reach me: You can connect with me via email at royaladelaideodametey@gmail.com or on LinkedIn at [Adelaide Odametey](https://www.linkedin.com/in/adelaide-odametey).
 - 😄 Pronouns: She/Her
