@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects and innovative solutions.
 - 📫 How to reach me: You can connect with me via email at royaladelaideodametey@gmail.com or on LinkedIn at [Adelaide Odametey](https://www.linkedin.com/in/adelaide-odametey).
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Exploring crypto/forex trading
+- ⚡ Fun fact: I once developed dehydrated cocoyam leaves, locally known as 'kontomire'
 
 
 <!---
